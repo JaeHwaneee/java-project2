@@ -1,4 +1,4 @@
-package org;
+package org.backendschool;
 
 public class PrintHelloTest {
     public static void main(String[] args) {
